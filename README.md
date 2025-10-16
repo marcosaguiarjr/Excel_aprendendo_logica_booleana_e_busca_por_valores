@@ -2,20 +2,22 @@
 
 ## 🧩 Conceitos Fundamentais
 
-Neste módulo, aprendemos a aplicar **lógica booleana** e **funções de pesquisa e referência** no Excel, aprimorando nossa capacidade de automatizar e analisar dados de forma inteligente.
+Neste curso da Alura, aprendemos a aplicar **lógica booleana** e **funções de pesquisa e referência** no Excel, aprimorando nossa capacidade de automatizar e analisar dados de forma inteligente.
 
 ---
 
 ## 🔍 Funções de Pesquisa e Referência
 
-### 1. **Conheça as funções de pesquisa e referência do Excel**
-Essas funções permitem **encontrar e retornar informações específicas** dentro de planilhas grandes, tornando o trabalho com dados muito mais eficiente.
+Com esses aprendizados, desenvolvi habilidades essenciais para trabalhar com dados no Excel de forma mais eficiente:
 
----
+Aplicar lógica booleana em fórmulas;
 
-### 2. **Função PROCX()**
-A função `PROCX()` é uma **evolução moderna do PROCV()** e do PROCH(), oferecendo mais flexibilidade e precisão.
+Utilizar funções de pesquisa e referência (PROCX(), CORRESP(), ÍNDICE(), CORRESPX());
 
-**Sintaxe:**
-```excel
-=PROCX(valor_procurado; matriz_procurar; matriz_retorno; [se_não_encontrado]; [modo_correspondência]; [modo_pesquisa])
+Criar funções aninhadas para cálculos complexos;
+
+Tratar erros com SEERRO();
+
+Usar funções condicionais (SE() e SES()) para automatizar decisões.
+
+Essas ferramentas permitem construir planilhas mais inteligentes, dinâmicas e livres de erros.
